@@ -1,0 +1,19 @@
+abbr -a -g ba   blackbox_addadmin
+abbr -a -g bca  blackbox_cat #bc is already taken by the basic calculator
+abbr -a -g bd   blackbox_diff
+abbr -a -g bda  blackbox_decrypt_all_files
+abbr -a -g bdf  blackbox_decrypt_file
+abbr -a -g bdr  blackbox_deregister_file
+abbr -a -g be   blackbox_edit
+abbr -a -g bee  blackbox_edit_end
+abbr -a -g bes  blackbox_edit_start
+abbr -a -g bi   blackbox_initialize
+abbr -a -g bla  blackbox_list_admins
+abbr -a -g blf  blackbox_list_files
+abbr -a -g bp   blackbox_postdeploy
+abbr -a -g bra  blackbox_removeadmin
+abbr -a -g brnf blackbox_register_new_file
+abbr -a -g bs   blackbox_shred_all_files
+abbr -a -g bu   blackbox_update_all_files
+abbr -a -g bv   blackbox_view
+abbr -a -g bw   blackbox_whatsnew
